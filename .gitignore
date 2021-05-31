@@ -1,0 +1,6 @@
+starter/node_modules
+starter/dist
+final
+starter/.parcel-cache
+.DS_Store
+starter/.DS_Store
